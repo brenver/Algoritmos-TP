@@ -1,11 +1,11 @@
-# 🛒 Algoritmos-TP — Sistema de Gestión Comercial
+#  Algoritmos Trabajo Practico
 
 > Trabajo Práctico desarrollado para la materia **Algoritmos y Estructura de Datos II**  
 > Tecnicatura Superior en Análisis de Sistemas — Instituto N°179 "Dr. Carlos Pellegrini"
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 Este repositorio documenta la evolución de un sistema de gestión comercial desarrollado en Python a lo largo de la cursada. El proyecto partió de una versión funcional en **Python 2.7**, fue migrado a **Python 3** y culminó en una versión final modular con persistencia de datos en archivos CSV.
 
@@ -13,7 +13,7 @@ El sistema permite gestionar los módulos principales de un negocio: clientes, p
 
 ---
 
-## 🗂️ Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 Algoritmos-TP/
@@ -35,7 +35,7 @@ Algoritmos-TP/
 
 ---
 
-## 🚀 Evolución del proyecto
+##  Evolución del proyecto
 
 | Versión | Archivo | Descripción |
 |---|---|---|
@@ -45,7 +45,7 @@ Algoritmos-TP/
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Lenguaje:** Python 3
 - **Persistencia:** Archivos CSV (módulo `csv` de la biblioteca estándar)
@@ -53,7 +53,7 @@ Algoritmos-TP/
 
 ---
 
-## ▶️ Cómo ejecutar
+##  Cómo ejecutar
 
 1. Cloná el repositorio:
    ```bash
@@ -70,7 +70,7 @@ Algoritmos-TP/
 
 ---
 
-## 📚 Contexto académico
+##  Contexto académico
 
 Este trabajo fue desarrollado como Trabajo Práctico integrador de la materia **Algoritmos y Estructura de Datos II**, aplicando conceptos de:
 
@@ -81,7 +81,7 @@ Este trabajo fue desarrollado como Trabajo Práctico integrador de la materia **
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 **Brenda** — [@brenver](https://github.com/brenver)  
 Tecnicatura Superior en Análisis de Sistemas
