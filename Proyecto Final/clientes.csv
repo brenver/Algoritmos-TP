@@ -1,0 +1,4 @@
+id_cliente,nombre,dni,email,direccion
+1,Juan Pérez,12345678,juan@mail.com,Calle Falsa 123
+2,Ana Gómez,87654321,ana@mail.com,Av. Siempre Viva 742
+3,Carlos López,45678912,carlos@mail.com,Belgrano 555

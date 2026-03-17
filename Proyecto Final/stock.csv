@@ -1,0 +1,4 @@
+id_producto,nom_producto,categoria,detalle,costo,precio,cant_total,cuit_proveedor
+1,Coca Cola,gaseosa,Botella 1.5L,500,800,100,20-12345678-9
+2,Agua Mineral,agua,Botella 2L,200,350,50,30-98765432-1
+
