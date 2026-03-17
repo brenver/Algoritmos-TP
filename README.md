@@ -1,4 +1,4 @@
-#  Algoritmos Trabajo Practico
+#  Algoritmos Trabajo Práctico - Comercial
 
 > Trabajo Práctico desarrollado para la materia **Algoritmos y Estructura de Datos II**  
 > Tecnicatura Superior en Análisis de Sistemas — Instituto N°179 "Dr. Carlos Pellegrini"
